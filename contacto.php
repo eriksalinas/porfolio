@@ -39,6 +39,7 @@
                     <div class="d-flex">
                         <a class="btn btn-rojo ">Descargar mi CV <i class="fa-solid fa-file-arrow-down"></i></a>
                     </div>
+                    
                 </div>
             </div>
         </nav>
