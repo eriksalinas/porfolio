@@ -18,6 +18,13 @@ h1{
     color: #e20000;
     font-size: 36px;
 }
+.p-1{
+    color: white;
+    font-size: 17px;
+    border: 1px solid #dc3545;
+    border-radius: 50px;
+    font-weight: 600;
+}
 p{
     color: #6a6a6a;;
     font-size: 16px;
@@ -121,5 +128,9 @@ footer .fa-linkedin-in{
     background-repeat: no-repeat;
     background-size: 100% ;
 }
-
-
+.choete{
+    height: 400px;
+}
+.text-center{
+    text-align: center;
+}
