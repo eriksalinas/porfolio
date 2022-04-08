@@ -129,9 +129,9 @@
         <!-- Se utiliza mt-5 para achicar o agrandar el contenido -->
         <div class="row color ">
             <div class="col-12 col-sm-3 ">
-                
-                <i class=" fa-brands fa-github " ></i>
-                <i class="fa-brands fa-linkedin"></i>
+               
+                <i class=" fa-brands fa-github  " ></i>
+                <i class="fa-brands fa-linkedin "></i>
                 
             </div>
             <div class="col-12 col-sm-3 ">Sponsor <a class="color" href="https://depcsuite.com">DePC Suite</a></div>

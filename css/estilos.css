@@ -134,9 +134,27 @@ footer .fa-linkedin-in{
     background-repeat: no-repeat;
     background-size: 100% ;
 }
+#sobre-mi{
+    background-image:url(../imagen/drive-download-20220317T011215Z-001/fondo-contacto.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
 .choete{
     height: 400px;
 }
 .text-center{
+    text-align: center;
+   
+}
+.btn-boton{
+
+    background-color: white;
+    color:#370a6d;
+}
+.btn-boton:hover{
+    color:white;
+    background-color: #370a6d;
+}
+.centro{
     text-align: center;
 }
