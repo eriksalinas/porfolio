@@ -85,7 +85,7 @@
     <footer class="container mt-5">
         <!-- Se utiliza mt-5 para achicar o agrandar el contenido -->
         <div class="row">
-            <div class="col-12 col-sm-3">
+            <div class="col-12 col-sm-3 ">
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin"></i>
             </div>

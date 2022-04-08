@@ -41,8 +41,8 @@ textarea{
    
 }
 .btn-blanco:hover{ /* Se utiliza el hover para invertir color de boton*/
-   color: white;
-   background-color: #370a6d;
+    color: white;
+    background-color: #370a6d;
 
 }
 .btn-rojo{
@@ -81,7 +81,13 @@ textarea{
 footer,footer a{
     color: white;
     font-weight: 100;
+
 }
+.color{
+    color: red;
+    font-weight: 100;
+}
+
 footer .fa-github{
     color: white;
     font-size: 30px;

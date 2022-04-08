@@ -125,15 +125,17 @@
 
 
 
-    <footer class="container mt-5">
+    <footer class="container mt-5 ">
         <!-- Se utiliza mt-5 para achicar o agrandar el contenido -->
-        <div class="row">
-            <div class="col-12 col-sm-3">
-                <i class="fa-brands fa-github"></i>
+        <div class="row color ">
+            <div class="col-12 col-sm-3 ">
+                
+                <i class=" fa-brands fa-github " ></i>
                 <i class="fa-brands fa-linkedin"></i>
+                
             </div>
-            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">DePC Suite</a></div>
-            <div class="col-12 col-sm-3"> <a href="mailto:erik61869@gmail.com"> erik61869@gmail.com</a></div>
+            <div class="col-12 col-sm-3 ">Sponsor <a class="color" href="https://depcsuite.com">DePC Suite</a></div>
+            <div class="col-12 col-sm-3"> <a class="color" href="mailto:erik61869@gmail.com"> erik61869@gmail.com</a></div>
             <!-- mailto se utiliza para agregar un vinculo a un correo-->
         </div>
     </footer>
