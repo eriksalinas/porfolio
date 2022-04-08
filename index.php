@@ -51,8 +51,8 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-12 col-sm-6 my-1 text-center offset-sm-3 mb-3">
+        <div class="row ">
+            <div class="col-12 col-sm-6 my-1 text-center offset-sm-3 mb-3 ">
                 <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas</p>
             </div>
         </div>
