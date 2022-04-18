@@ -21,12 +21,12 @@ h1{
 .p-1{
     color: white;
     font-size: 17px;
-    border: 1px solid #dc3545;
+    border: 1px solid #ffffff;
     border-radius: 50px;
     font-weight: 600;
 }
 p{
-    color: #6a6a6a;;
+    color:#6a6a6a;;
     font-size: 16px;
 }
 textarea{
@@ -139,12 +139,16 @@ footer .fa-linkedin-in{
     background-repeat: no-repeat;
     background-size: 100%;
     }
-.choete{
-    height: 400px;
-}
-.text-center{
-    text-align: center;
+.cohete{
+  width: 250px;
    
+}
+.cohete:hover{
+    width: 260px;
+}
+
+.tex-center{
+    text-align: center;
 }
 .btn-boton{
 
@@ -158,3 +162,13 @@ footer .fa-linkedin-in{
 .centro{
     text-align: center;
 }
+.foto{
+    margin: 1em auto;
+    display: block;
+    padding: 10px;
+    border-radius: 50%;
+    
+    background-color: #ffffff;
+    height: 210px;
+}
+

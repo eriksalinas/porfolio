@@ -45,9 +45,10 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 mt-4  text-center ">
-            
-                <img src="imagen/drive-download-20220317T011215Z-001/cohete.svg" class="choete">
+            <div class="col-12 mt-4  text-center     ">
+              
+                <a href="proyectos.php"> <img src="imagen/drive-download-20220317T011215Z-001/cohete.svg" alt="cohete" class="cohete"> </a>
+               
             </div>
         </div>
 
@@ -59,12 +60,11 @@
 
         <div class="row">
             <div class="col-12 text-center   ">
-                <button type="submit" name="btnConocer" id="btnConocer" class="btn btn-boton ">Conocer mis proyectos</button>
+            <a href="proyectos.php"><button type="submit" name="btnConocer" id="btnConocer" class="btn btn-boton "> Conocer mis proyectos </button> </a>
             </div>
-
         </div>
+    
     </main>
-
     <footer class="container mt-5">
         <!-- Se utiliza mt-5 para achicar o agrandar el contenido -->
         <div class="row">
