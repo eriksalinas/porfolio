@@ -1,5 +1,5 @@
 <?php
-$pg ="sobre-mi";
+$pg = "sobre-mi";
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -17,24 +17,40 @@ $pg ="sobre-mi";
 </head>
 
 <body id="sobre-mi">
-<?php include_once("header.php"); ?>
-   
+    <?php include_once("header.php"); ?>
+
     <main>
         <div class="container">
             <div class="row">
-                <div class="col-sm-5 col-12 mt-4">
+                <div class="col-12 col-sm-5 mt-4">
+                    <!--col-sm-5 es para ordenar en filas los textos -->
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                </div>
-                <p class="pb-sm-5">Apacionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
-            </div>
-            <div class="row">
-                <a href="contacto.php"> <button type="submit" name="btnContacto" id="btnContacto" class="btn "> Enviar mensaje</button></a>
-            </div>
-        </div>
-        <div class="col-sm-3 col-12 mt-4 offset-sm-2" >
-            <img src="imagen/drive-download-20220317T011215Z-001/WhatsApp Image 2022-04-13 at 10.04.13 AM.jpeg" alt="Erik salinas" title="Erik salinas" class="foto" >
-        </div>
+                    <p>Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
+                    <a href="contacto.php" class="btn-rojo btn mt-5">Enviar mensaje</a>
 
+                </div class="col-sm-4 col-12 mt-4 offset-sm-2">
+                <div><img src="imagen/drive-download-20220317T011215Z-001/WhatsApp Image 2022-04-13 at 10.04.13 AM.jpeg" alt="Erik Thaiel Salinas" title="Erik Thaiel Salinas" class="img-circle ">
+                </div>
+            </div>
+        </div>
+        <section id="tecnologias" class="color-gradiente pb-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                    <h2 class="my-sm-5">Stack tecnológico</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Javascript</h3>
+                            <img src="" >
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
 
     </main>
     <footer class="container mt-5 ">
