@@ -28,7 +28,7 @@ $pg = "sobre-mi";
         <div class="row ">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
+                    <p class="pb-sm-5"> Emprendedor con muchas ideas para generar ingresos. Soy estudiante, estudiando  programación Full Stack.</p>
                     <a href="contacto.php" class="btn btn-rojo  ">Enviar mensaje</a>
 
                 </div>
@@ -145,115 +145,55 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/Mundo Pet Salinas Sin fondo.png" class="img-fluid baw" title="Mundo pet salinas">    
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director</h3>
-                            <h4>DEPCSUITE SA</h4>
-                            <h5>2016 - presente</h5>
-                            <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                                services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto
-                                Madero
-                                y
-                                Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                                Coordinación
-                                del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                                CSS,
-                                Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL,
-                                HAProxy,
-                                ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                            <h3>Jefe</h3>
+                            <h4>Mundo pet salinas</h4>
+                            <h5> Jun 2021 - Presente</h5>
+                            <p>Jefe de mundo pet salinas, su principal objetivo es la venta online de productos y servicios á animales domesticos y convencionales, en la Ciudad Autonoma de Buenos Aires.  Muy pronto con local fisico  y bacantes de trabajo disponibles. </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/todocash-vertical.svg" class="img-fluid baw" title="Universidad de Buenos Aires">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>Universidad de Buenos Aires</h4>
-                            <h5>ago 2015 - ene 2020</h5>
-                            <p>Planeamiento del proyecto, seguimiento, reuniones de avance, estimación de entregables.
-                                Trato
-                                con clientes y equipos
-                                internos. Desarrollo de nuevos sistemas. Capacitar y organizar el área de desarrollo.
-                                Gestionar los ambientes de
-                                desarrollo. Administrar repositorio. Asignar tareas al equipo.
-                                Tecnologías: Laravel, PHP, HTML, CSS, Javascript, jQuery, AJAX, SQL Server, IIS,
-                                Bootstrap,
-                                Microsoft Project, GitLab.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/enacom.jpg" class="img-fluid baw" title="enacom">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>ENACOM</h4>
-                            <h5>jul 2012 - jun 2018</h5>
-                            <p>Diseño y desarrollo de sistemas internos para el organismo. Mantenimiento de los sistemas
-                                existentes. Gestión de base de
-                                datos y reportes. Trato con distintos clientes internos y equipos. Reuniones de avance.
-                                Organización del proyecto en
-                                Redmine. Resolución de pedidos mediante sistema de incidencias GLPI.
-                                Tecnologías: PHP, HTML, CSS, jQuery, Debian, AJAX, Javascript, jQuery, MySQL, PHP,
-                                Python,
-                                Mongo DB, PostgreSQL, firma
-                                electrónica, servicios REST, interfaz con SAP, XAMPP.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="certificado">
+                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="Encargado de Edificio">    
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Consultor Desarrollador Freelance</h3>
-                            <h4>Certificado Digital SA</h4>
-                            <h5>ago 2014 - dic 2016</h5>
-                            <p>Proyecto de desarrollo de sistemas web para los clientes de la consultora.
-                                Tecnologías: PHP, CSS, HTML, jQuery, Javascript, MySQL, WSDL.</p>
+                            <h3>Encargado</h3>
+                            <h4>Edificio zona Recoleta</h4>
+                            <h5>may 2020 - Presente </h5>
+                            <p>En cargado de realizar limpieza en un edificio y ayudar a los propietarios y inquilinos del establecimiento.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/golshy.jpg" class="img-fluid baw" title="certificado">
+                            <img src="imagen/drive-download-20220317T011215Z-001/peluqueria.jfif" class="img-fluid baw" title="Peluqueria">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Agencia Golshy</h4>
-                            <h5>jul 2011 - dic 2016</h5>
-                            <p>Desarrollo, implementación y mantenimiento de sistemas y páginas Web. Relevamiento de
-                                requisitos. Trato con el cliente.
-                                Desarrollo del Brief de marca y del sitio web. Participación en eventos de networking.
-                                Tecnologías: HTML, CSS, Javasacript, jQuery, MySQL, AJAX, API, Facebook, API Twitter, y
-                                API
-                                Youtube, Drupal, Wordpress.</p>
+                            <h3>Empleado</h3>
+                            <h4>Peluquero canino</h4>
+                            <h5>Jun 2022 - Presente</h5>
+                            <p> Realizo servicio de peluqueria canina en una veterinaria (Veterinaria Belgrano) y a domicilio (Mundo pet salinas). A distintos tipos de perros ya sean pequeños o grendes (Caniches, Pitbull, Labrador, Golden retriever, etc... ). </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/globons.png" class="img-fluid baw" title="globons">
+                            <img src="imagen/drive-download-20220317T011215Z-001/tienda.png" class="img-fluid baw" title="Tienda online">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Globons SRL</h4>
-                            <h5>abr 2010 - ene 2011</h5>
-                            <p>Desarrollo de sistemas web para los distintos proyectos de la empresa.
-                                Tecnologías: ASP.NET, C#, jQuery, AJAX, SQLServer, HTML, CSS.</p>
+                            <h3>Empleado</h3>
+                            <h4>Tienda online Perpetua</h4>
+                            <h5>Ferb 2019 - ene 2019</h5>
+                            <p>Vendedor online de ropa femenino y masculino, realizando ventas a las distintas provincias de Argentina <br>(Buenos Aires, Tucuman, Cordoba y Santiago Del Estero), con un porcentaje del 100% de envios exitosos.</p>
                         </div>
                     </div>
                 </div>
-            </div>
         </section>
         <section id="formacion" class="container">
             <div class="row">
@@ -265,43 +205,17 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/Liceo1.jpg" class="img-fluid baw " title="depcsuite"> <!-- img-fluid hace que las imagenes o la pagina no se espanda -->
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Licenciado en Tecnología</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
+                            <h3>Ciencias Naturales</h3>
+                            <h4>Escuela Jose Figueroa Alcorta Liceo 1</h4>
                             <h5>2015 - 2020</h5>
-                            <p>http://www.ean.edu.ar/</p>
+                            <p>https://liceo-1.blogspot.com/?m=1</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/unlam.png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Ingeniería en Informática</h3>
-                            <h4>Universidad Nacional de La Matanza</h4>
-                            <h5>2006 - 2010</h5>
-                            <p>Materias aprobadas 20 de 41, 48%.<br>
-                                http://unlam.edu.ar</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Técnico en Informática</h3>
-                            <h4>Colegio Parroquial San Juan XXIII</h4>
-                            <h5>2003 - 2005</h5>
-                            <p>http://colparroquialjuan23.edu.ar</p>
-                        </div>
-                    </div>
-                </div>
+            
             </div>
             </div>
         </section>
@@ -315,83 +229,30 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/utn.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/peluqueria.jfif" class="img-fluid baw" title="Peluqueria">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Programa Ejecutivo en Project Management</h3>
-                            <h4>Universidad Tecnológica Nacional</h4>
-                            <h5>Expedición: may 2018</h5>
-                            <p></p>
+                            <h3>Capacitacion peluqueria canina intermedio</h3>
+                            <h4>Nivel Inicial</h4>
+                            <h5>may 2021 - dic 2021</h5>
+                            <p>Tiorico y practico en manejo de animales y herramientas.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/peluqueria.jfif" class="img-fluid baw" title="Peluqueria">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Diplomatura en Marketing</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>Expedición: dic 2017</h5>
-                            <p></p>
+                            <h3>Capacitacion de peluqueria</h3>
+                            <h4>Nivel Intermedio</h4>
+                            <h5> dic 2021 - oct 2022</h5>
+                            <p>Refuerzo de Tiorico y practico en manejos de herramientas.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Capacitación en Planes de Negocio</h3>
-                            <h4>Fundación Impulsar</h4>
-                            <h5>Expedición: may 2018</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 ">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/unlam (1).png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Programación Web ASP.NET</h3>
-                            <h4>Universidad Nacional de La Matanza</h4>
-                            <h5>Expedición: dic 2019</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/microsoft.jpg" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Programación C# .NET</h3>
-                            <h4>Microsoft</h4>
-                            <h5>Expedición: dic 2006</h5>
-                            <p></p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block cursos-img">
-                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw"  title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>English Intermediate B2</h3>
-                            <h4>Instituto John Milton de Cultura Inglesa</h4>
-                            <h5>Expedición: dic 2006</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+         </div>
             </div>
         </section>
         <section id="idiomas">
@@ -406,7 +267,7 @@ $pg = "sobre-mi";
                                 <h2>IDIOMAS</h2>
                                 <ul>
                                     <li>ESPAÑOL - Nativo</li>
-                                    <li>INGLÉS - Intermediate B2</li>
+                                    <li>FRANCES- Basico</li>
                                 </ul>
                             </div>
                         </div>
@@ -416,11 +277,12 @@ $pg = "sobre-mi";
                             <div class="col-4 text-center card">
                                 <i class="fas fa-star"></i>
                             </div>
-                            <div class="col-8 p-5" >
+                            <div class="col-7 p-5" >
                                 <h2>HOBBIES</h2>
                                 <ul>
-                                    <li>Tenis</li>
-                                   
+                                    <li>Acuarismo</li>
+                                    
+                                    
                                 </ul>
                             </div>
                         </div>
