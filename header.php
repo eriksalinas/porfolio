@@ -5,13 +5,13 @@
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="collapse navbar-collapse " id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 <?php echo $pg == "inicio"? "active":"" ?> " aria-current="page" href="index.php">Inicio</a>
+                    <li class="nav-item">
+                            <a class="nav-link py-1 px-3 px-sm-4 texto-color <?php echo $pg == "inicio"? "active":"" ?> " href="index.php" >inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 <?php echo $pg == "sobre-mi"? "active":"" ?> " href="sobre-mi.php">Sobre mí</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 texto-color <?php echo $pg == "sobre-mi"? "active":"" ?> " href="sobre-mi.php" >Sobre mí</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link py-1 px-3 px-sm-4 <?php echo $pg == "proyectos"? "active":"" ?> " href="proyectos.php">Proyectos</a>

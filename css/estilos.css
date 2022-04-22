@@ -15,8 +15,15 @@ body {
 nav .active {
     border: 1px solid #e20000;
     border-radius: 20px;
+   
+   
 }
-
+nav .nav-link{
+    color: #282828;
+}
+nav .nav-link:hover{
+    color: #282828;
+}
 h1 {
     color: #e20000;
     font-size: 36px;
@@ -166,8 +173,8 @@ footer .fa-linkedin-in {
     background-image: url(../imagen/drive-download-20220317T011215Z-001/fondo-contacto.png);
     background-repeat: no-repeat;
     background-size: 100%;
+    
 }
-
 #sobre-mi {
     background-image: url(../imagen/drive-download-20220317T011215Z-001/fondo-proyectos.png);
     background-repeat: no-repeat;
@@ -270,8 +277,12 @@ footer .fa-linkedin-in {
     color: white;
 }
 
+.baw {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(100%);
+}
+.baw:hover {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter:grayscale(0%);
 
-
-  
-
-
+}

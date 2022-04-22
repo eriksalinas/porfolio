@@ -33,7 +33,7 @@ $pg = "sobre-mi";
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="imagen/drive-download-20220317T011215Z-001/WhatsApp Image 2022-04-13 at 10.04.13 AM.jpeg" alt="Erik Thaiel Salinas" title="Eik Thaiel Salinas"
+                    <img src="imagen/drive-download-20220317T011215Z-001/perfil_salinas.jpeg" alt="Erik Thaiel Salinas" title="Eik Thaiel Salinas"
                         class="img-fluid img-circle">
                 </div>
             </div>
@@ -351,7 +351,7 @@ $pg = "sobre-mi";
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 ">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
                             <img src="imagen/drive-download-20220317T011215Z-001/unlam (1).png" class="img-fluid baw" title="depcsuite">
@@ -380,8 +380,8 @@ $pg = "sobre-mi";
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block cursos-img">
+                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw"  title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>English Intermediate B2</h3>
@@ -416,10 +416,11 @@ $pg = "sobre-mi";
                             <div class="col-4 text-center card">
                                 <i class="fas fa-star"></i>
                             </div>
-                            <div class="col-8 p-5">
+                            <div class="col-8 p-5" >
                                 <h2>HOBBIES</h2>
                                 <ul>
                                     <li>Tenis</li>
+                                   
                                 </ul>
                             </div>
                         </div>

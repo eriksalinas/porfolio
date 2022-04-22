@@ -24,7 +24,7 @@ $pg = "inicio";
         <div class="container">
 
             <div class="row">
-                <div class="col-12 mt-4  text-center  div-lcohete  ">
+                <div class="col-12  text-center  div-lcohete  ">
                     <a href="proyectos.php"> <img src="imagen/drive-download-20220317T011215Z-001/cohete.svg" alt="cohete" class="cohete"> </a>
                 </div>
             </div>
