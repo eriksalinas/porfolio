@@ -18,7 +18,7 @@ $pg = "sobre-mi";
         rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <title>Proyectos</title>
+    <title>Sobre mi</title>
 </head>
 
 <body id="sobre-mi">
