@@ -25,11 +25,11 @@ $pg = "sobre-mi";
 <?php include_once("header.php"); ?>
     <main>
         <div class="container">
-            <div class="row">
+        <div class="row ">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
                     <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
-                    <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
+                    <a href="contacto.php" class="btn btn-rojo  ">Enviar mensaje</a>
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
@@ -37,11 +37,12 @@ $pg = "sobre-mi";
                         class="img-fluid img-circle">
                 </div>
             </div>
+
         </div>
         <section  class="color-gradiente pb-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12  ">
                         <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
                     </div>
                 </div>
@@ -56,8 +57,7 @@ $pg = "sobre-mi";
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                           <img class=" img-fluid d-block mx-auto" width="60" src="imagen/drive-download-20220317T011215Z-001/hwUcGZ41_400x400.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -121,15 +121,13 @@ $pg = "sobre-mi";
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="110"
-                                src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/300px-Apache_HTTP_server_logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="130" src="imagen/drive-download-20220317T011215Z-001/Apache_Software_Foundation_Logo_(2016).svg.png" alt="">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60" src="imagen/drive-download-20220317T011215Z-001/mercadopagojpg.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -147,7 +145,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Director</h3>
@@ -170,7 +168,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/uba.jpg" class="img-fluid baw" title="Universidad de Buenos Aires">
+                            <img src="imagen/drive-download-20220317T011215Z-001/todocash-vertical.svg" class="img-fluid baw" title="Universidad de Buenos Aires">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Desarrollador Senior Full Stack</h3>
@@ -191,7 +189,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/enacom.jpg" class="img-fluid baw" title="enacom">
+                            <img src="imagen/drive-download-20220317T011215Z-001/enacom.jpg" class="img-fluid baw" title="enacom">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Desarrollador Senior Full Stack</h3>
@@ -212,7 +210,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="certificado">
+                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="certificado">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Consultor Desarrollador Freelance</h3>
@@ -226,7 +224,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/golshy.jpg" class="img-fluid baw" title="certificado">
+                            <img src="imagen/drive-download-20220317T011215Z-001/golshy.jpg" class="img-fluid baw" title="certificado">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Desarrollador Back-end y Front-end</h3>
@@ -244,7 +242,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/globons.png" class="img-fluid baw" title="globons">
+                            <img src="imagen/drive-download-20220317T011215Z-001/globons.png" class="img-fluid baw" title="globons">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Desarrollador Back-end y Front-end</h3>
@@ -267,7 +265,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/ean.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Licenciado en Tecnología</h3>
@@ -280,7 +278,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/unlam.png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Ingeniería en Informática</h3>
@@ -294,7 +292,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Técnico en Informática</h3>
@@ -317,7 +315,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/utn.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Programa Ejecutivo en Project Management</h3>
@@ -330,7 +328,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/ean.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Diplomatura en Marketing</h3>
@@ -343,7 +341,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Capacitación en Planes de Negocio</h3>
@@ -356,7 +354,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/unlam (1).png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Programación Web ASP.NET</h3>
@@ -369,7 +367,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/microsoft.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/microsoft.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Programación C# .NET</h3>
@@ -383,7 +381,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
+                            <img src="imagen/drive-download-20220317T011215Z-001/sin-logo (1).png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>English Intermediate B2</h3>

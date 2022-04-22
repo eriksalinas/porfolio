@@ -1,5 +1,5 @@
 <?php
-$pg ="inicio";
+$pg = "inicio";
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -18,29 +18,29 @@ $pg ="inicio";
 </head>
 
 <body id="inicio">
-<?php include_once("header.php"); ?>
-    
-    <main class="container">
-        <div class="row">
-            <div class="col-12 mt-4  text-center     ">
-              
-                <a href="proyectos.php"> <img src="imagen/drive-download-20220317T011215Z-001/cohete.svg" alt="cohete" class="cohete"> </a>
-               
-            </div>
-        </div>
+    <?php include_once("header.php"); ?>
 
-        <div class="row ">
-            <div class="col-12 col-sm-6 my-5 text-center offset-sm-3 mb-3 ">
-                <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas</p>
-            </div>
-        </div>
+    <main>
+        <div class="container">
 
-        <div class="row">
-            <div class="col-12 text-center   ">
-            <a href="proyectos.php"><button type="submit" name="btnConocer" id="btnConocer" class="btn btn-boton "> Conocer mis proyectos </button> </a>
+            <div class="row">
+                <div class="col-12 mt-4  text-center  div-lcohete  ">
+                    <a href="proyectos.php"> <img src="imagen/drive-download-20220317T011215Z-001/cohete.svg" alt="cohete" class="cohete"> </a>
+                </div>
+            </div>
+
+            <div class="row ">
+                <div class="col-12 col-sm-6 my-5 text-center offset-sm-3 mb-3 ">
+                    <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 text-center   ">
+                    <a href="proyectos.php"><button type="submit" name="btnConocer" id="btnConocer" class="btn  btn-blanco "> Conocer mis proyectos </button> </a>
+                </div>
             </div>
         </div>
-    
     </main>
     <footer class="container mt-5">
         <!-- Se utiliza mt-5 para achicar o agrandar el contenido -->

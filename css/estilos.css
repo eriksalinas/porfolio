@@ -62,6 +62,8 @@ textarea {
     background-color: #e20000;
     color: white !important;
     font-weight: 100;
+    margin-bottom: 20px;
+    
 }
 
 .btn-rojo:hover {
@@ -172,7 +174,9 @@ footer .fa-linkedin-in {
     background-size: 100%;
 
 }
-
+#inicio .cohete{
+    height: 400px;
+}
 .cohete {
     width: 250px;
 
@@ -185,13 +189,19 @@ footer .fa-linkedin-in {
     margin: 1em auto;
     display: block;
     background-color: #ffffff;
-    padding: 5px;
-    border-radius: 50%;
+    padding: 10px;
+    border-radius: 100%;
     height: 230px;
    
 }
+.img-fluid{
+    height: auto;
+    max-width: 100%;
+}
+
 
 .color-gradiente{
+   
     background: rgba(184,37,20,1);
     background: -moz-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
     background: -webkit-gradient (left top, right top, color-stop(0%, rgba(184,37,20,1)), color-stop(47%, rgba(214,52,30,1)), color-stop(70%, rgba(240,47,23,1)), color-stop(100%, rgba(240,47,23,1)));
@@ -225,6 +235,15 @@ footer .fa-linkedin-in {
      color: #6A6A6A;
      font-size: 14px;
  }
+ h3{
+     font-size: 14px;
+     color: #282828;
+     font-weight: 300;
+ }
+ h2{
+     font-size: 24px;
+ }
+ 
  #idiomas .card-idioma{
     border-radius: 15px;
 }
@@ -250,6 +269,7 @@ footer .fa-linkedin-in {
     font-size: 80px;
     color: white;
 }
+
 
 
   
